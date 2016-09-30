@@ -1,0 +1,34 @@
+dependencies: \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/cocos/vr/CCVRGenericHeadTracker.cpp \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/vr/CCVRGenericHeadTracker.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/vr/CCVRProtocol.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccTypes.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCGeometry.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCMath.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec2.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCMathBase.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec2.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec3.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec3.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Mat4.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec4.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec4.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Mat4.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Quaternion.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Quaternion.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCGL.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCGL-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/renderer/CCTexture2D.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCDevice.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCData.h

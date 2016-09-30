@@ -1,0 +1,20 @@
+dependencies: \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

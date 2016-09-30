@@ -1,0 +1,36 @@
+dependencies: \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/cocos/navmesh/CCNavMeshUtils.cpp \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/navmesh/CCNavMeshUtils.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCMath.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec2.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCMathBase.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec2.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec3.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec3.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Mat4.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec4.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec4.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Mat4.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Quaternion.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Quaternion.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourCommon.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourMath.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourNavMesh.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourAlloc.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourStatus.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourNavMeshQuery.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/DetourTileCache/DetourTileCache.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/DetourTileCache/DetourTileCacheBuilder.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/Detour/DetourNavMeshBuilder.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/recast/fastlz/fastlz.h

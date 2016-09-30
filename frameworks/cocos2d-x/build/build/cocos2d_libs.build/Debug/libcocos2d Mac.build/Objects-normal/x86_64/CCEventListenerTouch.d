@@ -1,0 +1,32 @@
+dependencies: \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/cocos/base/CCEventListenerTouch.cpp \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCEventListenerTouch.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCEventListener.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCEventDispatcher.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCEvent.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCEventTouch.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCTouch.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCGeometry.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCMath.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec2.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/CCMathBase.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec2.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec3.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec3.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Mat4.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec4.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Vec4.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Mat4.inl \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Quaternion.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../cocos/math/Quaternion.inl
