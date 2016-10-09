@@ -1,0 +1,23 @@
+dependencies: \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/lib/protobuf-lite/google/protobuf/extension_set.cc \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/hash.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/common.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/config.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/once.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/atomicops.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/platform_macros.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/atomicops_internals_macosx.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/atomicops_internals_atomicword_compat.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/extension_set.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/message_lite.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/io/coded_stream.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/io/zero_copy_stream_impl.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/io/zero_copy_stream.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/io/zero_copy_stream_impl_lite.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/wire_format_lite_inl.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/repeated_field.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/type_traits.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/template_util.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/generated_message_util.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/wire_format_lite.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/../lib/protobuf-lite/google/protobuf/stubs/map-util.h

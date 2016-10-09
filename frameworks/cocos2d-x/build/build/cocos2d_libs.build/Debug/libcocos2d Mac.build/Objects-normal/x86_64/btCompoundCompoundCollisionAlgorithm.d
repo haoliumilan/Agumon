@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.cpp \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btActivatingCollisionAlgorithm.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btCollisionAlgorithm.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btDispatcher.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btPersistentManifold.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransform.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btManifoldPoint.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransformUtil.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btHashedSimplePairCache.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObject.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMotionState.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btCompoundShape.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btDbvt.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAabbUtil2.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btIDebugDraw.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btManifoldResult.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
+  /Volumes/D/GitHub/Agumon/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObjectWrapper.h
