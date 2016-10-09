@@ -27,6 +27,7 @@ local display = {}
 local director = cc.Director:getInstance()
 local view = director:getOpenGLView()
 
+
 if not view then
     local width = 960
     local height = 640
