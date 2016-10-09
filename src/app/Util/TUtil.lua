@@ -1,6 +1,7 @@
 --
 -- Author: Your Name
 -- Date: 2016-10-08 18:03:46
+-- 工具类
 --
 local TUtil = {}
 
@@ -24,6 +25,16 @@ function TUtil.registerBtnCallback(button,callback)
     end)
 end
 
-
+--实现Lua的枚举方法
+--@local bt = {"Defaul","Normal"}
+--@TUtil.createEnumTable(bt,1)
+function TUtil.createEnumTable(tbl, index) 
+    local enumtbl = {} 
+    local enumindex = index or 0 
+    for i, v in ipairs(tbl) do 
+        enumtbl[v] = enumindex + i - 1
+    end 
+    return enumtbl 
+end 
 
 return TUtil

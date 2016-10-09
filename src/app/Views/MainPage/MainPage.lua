@@ -10,12 +10,14 @@ local BottomPanel = import(".BottomPanel")
 local City = import("..City.City")
 local MonHouse = import("..MonHouse.MonHouse")
 
-local MainPage = class("classname",MainUIModuleBase)
+local MainPage = class("MainPage",MainUIModuleBase)
 
 function MainPage:ctor()
 	MainPage.super.ctor(self)
+
 	self.CSBPath = "Csb/MainPage/MainPage.csb"
 	self:setCSBNode()
+	self.csbNode:setPosition(cc.p(display.cx,display.cy))
 
 	self.bottomPanel = BottomPanel.new(handler(self,self.goMainModule))
 	self:addChild(self.bottomPanel,100)
@@ -46,14 +48,16 @@ end
 
 function MainPage:goCity()
 	self.city = City.new()
-	self:addChild(self.city,101)
+	self:addChild(self.city,50)
+	self.city:setPosition(display.cx,display.cy)
 	self.curModule = self.city
 end
 
 function MainPage:goMonHouse()
 	self.monHouse = MonHouse.new()
-	self:addChild(self.monHouse,100)
+	self:addChild(self.monHouse,50)
 	self.curModule = self.monHouse
+	self.monHouse:setPosition(display.cx,display.cy)
 end
 
 

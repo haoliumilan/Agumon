@@ -9,12 +9,15 @@ local BaseNode = class("BaseNode",cc.load("mvc").ViewBase)
 function BaseNode:ctor()
 	BaseNode.super.ctor(self)
 	self.CSBPath = "" -- 当前NODE的csb的路径
+	print("我叫什么名字啊",self:getClassName())
 end
 
 --生成csb的NODE
 function BaseNode:setCSBNode()
     local node = TCSLoader:loadCSB(self.CSBPath,self)
     self:addChild(node,10)
+    self.csbNode = node
+    return node
 end
 
 --封装onEnter 和 onExit的方法
@@ -43,6 +46,7 @@ end
 ------------------------------------
 -------------Method get-------------
 ------------------------------------
+--获得当前node的类名
 function BaseNode:getClassName()
 	return self.__cname
 end

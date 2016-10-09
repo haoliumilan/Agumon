@@ -6,15 +6,15 @@
         <Folder Name="Csb">
           <Project Name="MainScene.csd" Type="Scene" />
           <Folder Name="MainPage">
-            <Project Name="MainPage.csd" Type="Layer" />
             <Project Name="BottomPanel.csd" Type="Node" />
             <Project Name="UsrInfoBoard.csd" Type="Node" />
+            <Project Name="MainPage.csd" Type="Node" />
           </Folder>
           <Folder Name="City">
-            <Project Name="City.csd" Type="Layer" />
+            <Project Name="City.csd" Type="Node" />
           </Folder>
           <Folder Name="MonHouse">
-            <Project Name="MonHouse.csd" Type="Layer" />
+            <Project Name="MonHouse.csd" Type="Node" />
           </Folder>
         </Folder>
         <Folder Name="IMG">
