@@ -11,8 +11,7 @@
 		
 		$ cd /Agumon
 		$ cocos compile -p android --android-studio  --ap android-21 --ndk-toolchain arm-linux-androideabi-4.8
-		
-		
+				
 ####提交项目注意事项
 * 调用`cocos compile -p android --android-studio ......`命令后，新增的文件在提交保存的时候可以删除，包括以下路径的内容（修改android工程影响的文件是否在下面路径中，还不知道）；
 
@@ -23,4 +22,14 @@
 		
 * 提交android-studio工程的时候，需要关闭android-studio，减少临时文件；
 
-####代码结构
+####所有命名遵循格式驼峰(详细百度)
+	1.文件名  bigPig.png 
+	2.变量名  bigPig
+	3.类名    BigPig
+	4.全局变量  BIGPIG
+	5.枚举类型  enBigPig (en开头)
+	6.方法名  funtion bigPig()
+
+####代码结构 
+
+
