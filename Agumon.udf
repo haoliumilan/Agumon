@@ -16,7 +16,7 @@
         <AndroidkeyStore Value="" />
         <AndroidVersion Value="android-11" />
         <iOS_Target Value="Agumon-mobile" />
-        <iOS_BundleID Value="" />
+        <iOS_BundleID Value="Developer ID Application: Simband (QTA7AM9T5Z)" />
         <Platform Value="None" />
         <RunPlatform Value="Mac" />
         <FrameworkVersion Value="cocos2d-x-3.13" />
