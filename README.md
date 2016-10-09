@@ -3,9 +3,9 @@
 引擎：cocos2d-x 3.13.1
 
 ####常用命令行
-* 运行mac模拟器		
+* 运行mac模拟器(640x1136)		
 		
-		/Agumon/simlator/mac/Agumon-desktop.app/Contents/MacOS/Agumon-desktop /Agumon
+		/Agumon/simlator/mac/Agumon-desktop.app/Contents/MacOS/Agumon-desktop /Agumon -resolution 640x1136
 
 * 为android工程编译c++库(编译并打包工程)			
 		
