@@ -4,9 +4,12 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Folder Name="Csb">
-          <Project Name="MainScene.csd" Type="Scene" />
+          <Folder Name="City">
+            <Project Name="City.csd" Type="Layer" />
+          </Folder>
           <Folder Name="MainPage">
             <Project Name="BottomPanel.csd" Type="Node" />
+            <Project Name="MainPage.csd" Type="Layer" />
             <Project Name="UsrInfoBoard.csd" Type="Node" />
             <Project Name="MainPage.csd" Type="Node" />
           </Folder>
@@ -16,6 +19,7 @@
           <Folder Name="MonHouse">
             <Project Name="MonHouse.csd" Type="Node" />
           </Folder>
+          <Project Name="MainScene.csd" Type="Scene" />
         </Folder>
         <Folder Name="IMG">
           <Folder Name="MainPage">
