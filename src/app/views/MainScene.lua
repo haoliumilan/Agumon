@@ -1,16 +1,18 @@
 
-local BaseScene = import("..UIBase.BaseScene")
-local HWButton = import("..UIBase.HWButton") --
-local TCSLoader = import("..UIBase.TCSLoader")
+local BaseScene = import("..uibase.BaseScene")
+local HWButton = import("..uibase.HWButton") --
+local TCSLoader = import("..uibase.TCSLoader")
 local MainNode = import(".MainNode")
 local MainScene = class("MainScene",BaseScene) --cc.load("mvc").ViewBase)
 
 --下面是正式代码
-local MainPage = import(".MainPage.MainPage")
+local MainPage = import(".mainPage.MainPage")
 
 
 function MainScene:ctor()
     MainScene.super.ctor(self)
+
+    -- cc.Notifi
     -- local coverLayer = cc.LayerColor:create(cc.c4b(0,110,20,255),display.width,display.height)
     -- self:addChild(coverLayer)
     
@@ -48,6 +50,13 @@ function MainScene:ctor()
 
     -- --下面是正式的
     self:initMainPage()
+    -- cc.NotificationCenter:getInstance():registerScriptObserver(self,handler(self,self.cbNotify), "random-observer1")
+
+    -- cc.NotificationCenter:getInstance():unregisterScriptObserver()
+end
+
+function MainScene:cbNotify()
+    print("cbNotifyyyy")
 end
 
 function MainScene:initMainPage()

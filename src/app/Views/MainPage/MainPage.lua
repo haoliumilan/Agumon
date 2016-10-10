@@ -3,12 +3,12 @@
 -- Date: 2016-10-09 10:23:32
 -- 包含顶部的信息栏和底部的操作栏
 --
-local MainUIModuleBase = import("..Common.MainUIModuleBase")
+local MainUIModuleBase = import("..common.MainUIModuleBase")
 local BottomPanel = import(".BottomPanel")
 
 --各个主模块
-local City = import("..City.City")
-local MonHouse = import("..MonHouse.MonHouse")
+local City = import("..city.City")
+local MonHouse = import("..monhouse.MonHouse")
 
 local MainPage = class("MainPage",MainUIModuleBase)
 

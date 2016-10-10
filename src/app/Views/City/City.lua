@@ -2,7 +2,7 @@
 -- Author: Your Name
 -- Date: 2016-10-09 11:25:35
 --
-local BaseNode = require("app.UIBase.BaseNode")
+local BaseNode = require("app.uibase.BaseNode")
 
 local City = class("City",BaseNode)
 
