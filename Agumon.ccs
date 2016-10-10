@@ -3,26 +3,23 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Folder Name="Csb">
-          <Folder Name="City">
-            <Project Name="City.csd" Type="Layer" />
-          </Folder>
-          <Folder Name="MainPage">
-            <Project Name="BottomPanel.csd" Type="Node" />
-            <Project Name="MainPage.csd" Type="Layer" />
-            <Project Name="UsrInfoBoard.csd" Type="Node" />
-            <Project Name="MainPage.csd" Type="Node" />
-          </Folder>
-          <Folder Name="City">
+        <Folder Name="csb">
+          <Folder Name="city">
             <Project Name="City.csd" Type="Node" />
           </Folder>
-          <Folder Name="MonHouse">
+          <Folder Name="mainpage">
+            <Project Name="BottomPanel.csd" Type="Node" />
+            <Project Name="MainPage.csd" Type="Layer" />
+            <Project Name="MainPage.csd" Type="Node" />
+            <Project Name="UsrInfoBoard.csd" Type="Node" />
+          </Folder>
+          <Folder Name="monhouse">
             <Project Name="MonHouse.csd" Type="Node" />
           </Folder>
           <Project Name="MainScene.csd" Type="Scene" />
         </Folder>
-        <Folder Name="IMG">
-          <Folder Name="MainPage">
+        <Folder Name="img">
+          <Folder Name="mainpage">
             <Image Name="bg.jpg" />
             <Image Name="bottomBg.png" />
           </Folder>

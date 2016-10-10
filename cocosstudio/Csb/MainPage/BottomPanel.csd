@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="IMG/MainPage/bottomBg.png" Plist="" />
+            <FileData Type="Normal" Path="img/mainpage/bottomBg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Button1" ActionTag="-19335828" Tag="14" IconVisible="False" LeftMargin="-301.5000" RightMargin="236.5000" TopMargin="-17.0000" BottomMargin="-33.0000" TouchEnable="True" FontSize="18" ButtonText="战斗" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">

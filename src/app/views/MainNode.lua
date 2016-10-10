@@ -6,7 +6,7 @@ local BaseNode = require("app.uibase.BaseNode")
 
 local MainNode = class("MainNode",BaseNode)
 
-MainNode.RESOURCE_FILENAME = "Csb/MainScene.csb"
+MainNode.RESOURCE_FILENAME = "csb/MainScene.csb"
 
 function MainNode:ctor()
 	MainNode.super.ctor(self)

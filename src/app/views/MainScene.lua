@@ -16,7 +16,7 @@ function MainScene:ctor()
     -- local coverLayer = cc.LayerColor:create(cc.c4b(0,110,20,255),display.width,display.height)
     -- self:addChild(coverLayer)
     
-    -- local node = TCSLoader:loadCSB("Csb/MainScene.csb",self) --MainNode.new():addTo(self)
+    -- local node = TCSLoader:loadCSB("csb/MainScene.csb",self) --MainNode.new():addTo(self)
     -- self:addChild(node,100)
     -- cc.Director:getInstance():setDisplayStats(true)
 

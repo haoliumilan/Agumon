@@ -15,7 +15,7 @@ local MainPage = class("MainPage",MainUIModuleBase)
 function MainPage:ctor()
 	MainPage.super.ctor(self)
 
-	self.CSBPath = "Csb/MainPage/MainPage.csb"
+	self.CSBPath = "csb/mainpage/MainPage.csb"
 	self:setCSBNode()
 	self.csbNode:setPosition(cc.p(display.cx,display.cy))
 

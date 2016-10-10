@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5084" Y="0.5000" />
             <PreSize X="1.0000" Y="1.0000" />
-            <FileData Type="Normal" Path="IMG/MainPage/bg.jpg" Plist="" />
+            <FileData Type="Normal" Path="img/mainpage/bg.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Sprite_1" ActionTag="-1024994538" Tag="3" IconVisible="False" VerticalEdge="TopEdge" LeftMargin="171.0000" RightMargin="423.0000" TopMargin="100.0000" BottomMargin="990.0000" ctype="SpriteObjectData">
@@ -66,7 +66,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.0594" />
             <PreSize X="1.0000" Y="0.0977" />
-            <FileData Type="Normal" Path="IMG/MainPage/bottomBg.png" Plist="" />
+            <FileData Type="Normal" Path="img/mainpage/bottomBg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="bottomBg_4" ActionTag="108305108" Tag="16" IconVisible="False" VerticalEdge="TopEdge" LeftMargin="0.9302" RightMargin="-0.9302" BottomMargin="1025.0000" ctype="SpriteObjectData">
@@ -77,7 +77,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5015" Y="0.9511" />
             <PreSize X="1.0000" Y="0.0977" />
-            <FileData Type="Normal" Path="IMG/MainPage/bottomBg.png" Plist="" />
+            <FileData Type="Normal" Path="img/mainpage/bottomBg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
