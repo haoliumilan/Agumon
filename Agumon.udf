@@ -30,7 +30,6 @@
     </Item>
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
-<<<<<<< HEAD
         <OpenedDocuments>
           <FilePathData Path="Csb/MainScene.csd" />
           <FilePathData Path="Csb/MainPage/BottomPanel.csd" />
@@ -40,9 +39,7 @@
           <FilePathData Path="Csb/MainPage/MainPage.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="Csb/MainPage/MainPage.csd" />
-=======
         <ActiveDocument />
->>>>>>> haoliumilan/master
       </Value>
     </Item>
   </Properties>

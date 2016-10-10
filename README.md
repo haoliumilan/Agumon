@@ -23,13 +23,18 @@
 * 提交android-studio工程的时候，需要关闭android-studio，减少临时文件；
 
 ####所有命名遵循格式驼峰(详细百度)
-	1.文件名  bigPig.png 
-	2.变量名  bigPig
-	3.类名    BigPig
-	4.全局变量  BIGPIG
-	5.枚举类型  enBigPig (en开头)
-	6.方法名  funtion bigPig()
+	1.文件名  	bigPig.png （小写字母开头）
+	2.变量名  	bigPig （小写字母开头）
+	3.类名    	BigPig （大写字母开头，不能用数字结尾，要控制长度）
+	4.全局变量  	BIGPIG （全部用大写字母）
+	5.枚举类型  	enBigPig （en开头）
+	6.方法名  	funtion bigPig() （小写字母开头）
+	7.文件夹名	views（全部用小写字母）
 
 ####代码结构 
-
-
+* app
+	* UIBase
+	* Util
+	* views 
+* cocos
+* packages
