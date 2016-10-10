@@ -8,7 +8,7 @@ local MonHouse = class("MonHouse",MainUIModuleBase)
 
 function MonHouse:ctor()
 	MonHouse.super.ctor(self)	
-	self.CSBPath = "Csb/MonHouse/MonHouse.csb"
+	self.CSBPath = "csb/monhouse/MonHouse.csb"
 	self:setCSBNode()
 end
 

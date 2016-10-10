@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MainPage1" Type="Node" ID="265fcb44-8c60-4c69-b193-f622b9530130" Version="3.10.0.0" />
+  <PropertyGroup Name="MainPage" Type="Node" ID="265fcb44-8c60-4c69-b193-f622b9530130" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="IMG/MainPage/bg.jpg" Plist="" />
+            <FileData Type="Normal" Path="img/mainpage/bg.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
         </Children>

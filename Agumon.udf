@@ -7,38 +7,8 @@
         <LastRunType Value="Mac" />
       </Value>
     </Item>
-    <Item Key="PackageParamsKey">
-      <Value ctype="PackageParams">
-        <LuaIsEncrypt Value="False" />
-        <LuaEncryptKey Value="" />
-        <LuaEncryptSign Value="" />
-        <Android_PackageName Value="org.cocos.Agumon" />
-        <AndroidkeyStore Value="" />
-        <AndroidVersion Value="android-11" />
-        <iOS_Target Value="Agumon-mobile" />
-        <iOS_BundleID Value="Developer ID Application: Simband (QTA7AM9T5Z)" />
-        <Platform Value="None" />
-        <RunPlatform Value="Mac" />
-        <FrameworkVersion Value="cocos2d-x-3.13" />
-        <IsDebugKeystore Value="True" />
-        <KeystorePassword Value="" />
-        <KeystoreAliasName Value="" />
-        <KeystoreAliasPassword Value="" />
-        <EnableSourceMap Value="False" />
-        <EnableHTML5Advanced Value="False" />
-      </Value>
-    </Item>
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="Csb/MainScene.csd" />
-          <FilePathData Path="Csb/MainPage/BottomPanel.csd" />
-          <FilePathData Path="Csb/MainPage/UsrInfoBoard.csd" />
-          <FilePathData Path="Csb/MonHouse/MonHouse.csd" />
-          <FilePathData Path="Csb/City/City.csd" />
-          <FilePathData Path="Csb/MainPage/MainPage.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="Csb/MainPage/MainPage.csd" />
         <ActiveDocument />
       </Value>
     </Item>

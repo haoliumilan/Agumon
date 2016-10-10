@@ -8,7 +8,7 @@ local BottomPanel = class("BottomPanel",BaseNode)
 
 function BottomPanel:ctor(callback)
 	BottomPanel.super.ctor(self)
-	self.CSBPath = "Csb/MainPage/BottomPanel.csb"
+	self.CSBPath = "csb/mainpage/BottomPanel.csb"
 	self:setCSBNode()
 	self:setButtonCallback()
 

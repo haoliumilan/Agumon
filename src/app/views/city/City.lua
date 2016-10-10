@@ -8,7 +8,7 @@ local City = class("City",BaseNode)
 
 function City:ctor()
 	City.super.ctor(self)
-	self.CSBPath = "Csb/City/City.csb"
+	self.CSBPath = "csb/city/City.csb"
 	self:setCSBNode()
 end
 
