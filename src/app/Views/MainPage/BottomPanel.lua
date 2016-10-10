@@ -2,7 +2,7 @@
 -- Author: Your Name
 -- Date: 2016-10-09 10:58:58
 --
-local BaseNode = require("app.UIBase.BaseNode")
+local BaseNode = require("app.uibase.BaseNode")
 
 local BottomPanel = class("BottomPanel",BaseNode)
 
@@ -21,6 +21,8 @@ function BottomPanel:setButtonCallback()
 	for i=1,5 do
 		local btnName = "ccs".."Button"..i
 		self[btnName]:setTag(i)
+		-- cc.NotificationCenter:getInstance():postNotification("random-observer1",self[btnName])
+
 		TUtil.registerBtnCallback(self[btnName],function ()
 			self.callback(tb[i])
 		end)
