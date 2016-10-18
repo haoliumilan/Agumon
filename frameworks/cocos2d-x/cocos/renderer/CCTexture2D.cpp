@@ -1502,4 +1502,22 @@ void Texture2D::setAlphaTexture(Texture2D* alphaTexture)
         this->_hasPremultipliedAlpha = true; // PremultipliedAlpha shoud be true.
     }
 }
+
+
+void Texture2D::addUseTime()
+{
+    double tm = utils::gettime();
+    this->useTimeArr.push_back(tm);
+}
+    
+std::vector<double > Texture2D::getUseTimeArr()
+{
+    return this->useTimeArr;
+}
+
+int Texture2D::getUseCnt()
+{
+    return this->useTimeArr.size();
+}
+
 NS_CC_END

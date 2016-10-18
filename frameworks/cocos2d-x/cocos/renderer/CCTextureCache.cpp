@@ -408,7 +408,7 @@ Texture2D * TextureCache::addImage(const std::string &path)
     }
 
     CC_SAFE_RELEASE(image);
-
+    texture->addUseTime();
     return texture;
 }
 
@@ -460,6 +460,7 @@ Texture2D* TextureCache::addImage(Image *image, const std::string &key)
     VolatileTextureMgr::addImage(texture, image);
 #endif
 
+    texture->addUseTime();
     return texture;
 }
 
@@ -605,6 +606,59 @@ void TextureCache::waitForQuit()
     _needQuit = true;
     _sleepCondition.notify_one();
     if (_loadingThread) _loadingThread->join();
+}
+
+bool sortJudge(Texture2D*m1,Texture2D*m2)
+{
+    int value1=1;
+    int value2=1;
+    value1 = value1 * pow(10,m1->getReferenceCount()+2);
+    value2 = value1 * pow(10,m1->getReferenceCount()+2);
+        
+    
+    
+    return value1>value2;
+}
+
+
+void TextureCache::tAutoReleaseTextures()
+{   
+    if(this->getTotalTexturesMemory() < 150 * 1024){
+        return ;
+    }
+    
+    sort(_textures.begin(), _textures.end(),sortJudge);
+    
+    long curSize = 0;
+    for (auto it = _textures.begin();it!=_textures.end();) {
+        Texture2D*tex = it->second;
+        if(tex->getReferenceCount() == 1)
+        {
+            unsigned int bpp = tex->getBitsPerPixelForFormat();
+            // Each texture takes up width * height * bytesPerPixel bytes.
+            auto bytes = tex->getPixelsWide() * tex->getPixelsHigh() * bpp / 8;
+            if(curSize>100)
+            {
+                
+            }else{
+                curSize += bytes/1024;
+            }
+        }
+    }
+}
+
+long TextureCache::getTotalTexturesMemory()
+{
+    long totalKBytes = 0;
+    for (auto it = _textures.begin();it!=_textures.end();it++) {
+        Texture2D*tex = it->second;
+        unsigned int bpp = tex->getBitsPerPixelForFormat();
+        // Each texture takes up width * height * bytesPerPixel bytes.
+        auto bytes = tex->getPixelsWide() * tex->getPixelsHigh() * bpp / 8;
+        totalKBytes += bytes/1024;
+    }
+
+    return totalKBytes;
 }
 
 std::string TextureCache::getCachedTextureInfo() const

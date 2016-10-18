@@ -196,6 +196,13 @@ public:
     /**Called by director, please do not called outside.*/
     void waitForQuit();
 
+    //modified by highway
+    //获得所有纹理所占用的内存
+    long  getTotalTexturesMemory();
+    //自动释放
+    void tAutoReleaseTextures();
+    //
+
     /**
      * Get the file path of the texture
      *

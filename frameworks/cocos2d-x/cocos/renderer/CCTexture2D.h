@@ -152,6 +152,13 @@ public:
         GLuint    wrapT;
     }TexParams;
     
+    
+//    typedef struct _UseParams{
+//        long useTime;
+//    }useParam;
+//
+    
+    
 public:
     /** sets the default pixel format for UIImagescontains alpha channel.
      
@@ -417,6 +424,14 @@ public:
     /** Get pixel info map, the key-value pairs is PixelFormat and PixelFormatInfo.*/
     static const PixelFormatInfoMap& getPixelFormatInfoMap();
     
+    //highway modified
+    void addUseTime();
+    
+    std::vector<double > getUseTimeArr();
+
+    int getUseCnt();
+
+
 private:
     /**
     * A struct for storing 9-patch image capInsets.
@@ -508,7 +523,9 @@ private:
     static void convertRGBA8888ToAI88(const unsigned char* data, ssize_t dataLen, unsigned char* outData);
     static void convertRGBA8888ToRGBA4444(const unsigned char* data, ssize_t dataLen, unsigned char* outData);
     static void convertRGBA8888ToRGB5A1(const unsigned char* data, ssize_t dataLen, unsigned char* outData);
+    
 
+    
 protected:
     /** pixel format of the texture */
     Texture2D::PixelFormat _pixelFormat;
@@ -552,6 +569,12 @@ protected:
     std::string _filePath;
 
     Texture2D* _alphaTexture;
+    
+//    int useWeight; //近5分钟
+//    int useTime;
+//    
+    std::vector<double > useTimeArr;
+
 };
 
 
